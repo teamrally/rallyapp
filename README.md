@@ -1,2 +1,3 @@
-#rally
-Rally app
+# Rally
+
+Rally application using React Native.
